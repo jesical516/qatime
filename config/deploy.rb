@@ -7,7 +7,7 @@ set :application, 'qatime'
 set :deploy_user, 'qatime'
 
 set :scm, :git
-set :repo_url, 'git@github.com:chuanjiabao1981/qatime.git'
+set :repo_url, 'git@github.com:jesical516/qatime.git'
 
 
 # Default branch is :master
